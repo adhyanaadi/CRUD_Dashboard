@@ -31,8 +31,8 @@ A full-stack admin dashboard which supports CRUD operations.
 4. Run 'npm install express mongoose body-parser' in the server folder path.
 
 ## Local Hosting Purpose
-1. Run 'npm run dev' in the CRUD path.
-2. Run 'node routes.js' in the server path.
+1. Run 'npm run dev' in the CRUD path(PORT: 5173).
+2. Run 'node routes.js' in the server path(PORT: 3000).
 
 
    
