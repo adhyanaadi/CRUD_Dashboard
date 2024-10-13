@@ -1,6 +1,9 @@
 # CRUD Admin Dashboard Project
 A full-stack admin dashboard which supports CRUD operations.
 
+# Ideation File
+https://excalidraw.com/#json=pNvhoZ50EiHP2VDSeFlOx,7QK0b7M-vVCDuuJnMAcELg
+
 # Installation Process
 
 ## Project Setup via vite
